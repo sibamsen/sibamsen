@@ -69,15 +69,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibamsen&show_icons=true&theme=default&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibamsen&layout=compact&theme=default" />
-</p>
+- 🔹 Consistently working on **Python, Data Science & ML projects**
+- 🔹 Experience with **end-to-end ML workflows**
+- 🔹 Hands-on with **real-world datasets & deployment**
+- 🔹 Active learner with focus on **clean & scalable code**
 
 
 ---
