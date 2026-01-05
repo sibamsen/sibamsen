@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibam Sen</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Python Developer | Data Enthusiast</h3>
+<h3 align="center">Aspiring Machine Learning Engineer | Python Developer | Data & BI Enthusiast</h3>
 
 ---
 
@@ -7,9 +7,9 @@
 - 🎓 Final-year **B.Tech (Electronics & Communication Engineering)** student  
 - 🐍 Strong foundation in **Python programming**
 - 🤖 Actively learning **Machine Learning & Data Science**
-- 📊 Hands-on experience with **real-world, end-to-end projects**
-- 🚀 Focused on **clean, scalable & industry-ready code**
-- 💡 Believe in *learning by building*
+- 📊 Hands-on experience with **data analysis, ML models & dashboards**
+- 🚀 Focused on **clean, scalable & industry-ready solutions**
+- 💡 Believe in *learning by building real-world projects*
 
 ---
 
@@ -21,11 +21,12 @@
 ![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql)
 
-### 🔹 Data Science & ML
+### 🔹 Data Science, ML & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ### 🔹 Web, APIs & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
@@ -41,8 +42,9 @@
 - Strengthening **Machine Learning fundamentals**
 - Writing **production-ready Python code**
 - Improving **data preprocessing & model evaluation**
-- Building **clean, well-documented projects**
+- Building **ML applications, APIs & BI dashboards**
+- Applying **best practices in documentation & code quality**
 
 ---
 
-⭐ *Consistently learning, building, and improving.*
+⭐ *Consistently learning, building, and improving with a focus on real-world impact.*
