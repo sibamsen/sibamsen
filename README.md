@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sibam Sen</h1>
 
 <h3 align="center">
-Data Analytics | Data Science | AI & Machine Learning
+Data Analyst | Data Science Enthusiast | Machine Learning Practitioner
 </h3>
 
 <p align="center">
-Transforming Data into Insights 📊 | Learning, Building & Growing Every Day 🚀
+📊 Turning Data into Insights | 🐍 Python & SQL | 📈 Power BI | 🤖 Machine Learning
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a B.Tech graduate with a strong interest in **Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**.
+I am a B.Tech graduate passionate about **Data Analytics, Data Science, Machine Learning, and Business Intelligence**.
 
-My journey started with Python programming and gradually expanded into data analysis, machine learning, business intelligence, and data-driven problem solving. I enjoy working with data, uncovering patterns, building predictive models, and creating dashboards that help transform raw data into meaningful insights.
+I enjoy working with data to uncover insights, solve business problems, build predictive models, and create interactive dashboards that support data-driven decision making.
+
+Over time, I have built **20+ projects** spanning data analytics, machine learning, SQL, Power BI, and Streamlit applications across multiple domains including real estate, customer analytics, telecom, insurance, transportation, sports, music, and e-commerce.
 
 Currently, I am focused on:
 
@@ -24,7 +26,7 @@ Currently, I am focused on:
 * 🗄️ SQL & Database Management
 * 📈 Power BI & Data Visualization
 * 📚 Data Structures & Algorithms (LeetCode & Striver)
-* 🚀 Building industry-ready projects
+* 🚀 Building production-ready projects
 
 ---
 
@@ -62,29 +64,54 @@ Currently, I am focused on:
 
 ---
 
-## 🚀 Featured Project Domains
+## 🚀 Featured Projects
 
-📊 Data Analytics & Business Intelligence
+📊 PhonePe Pulse Power BI Dashboard
 
-📈 Exploratory Data Analysis (EDA)
+📈 Ola Ride Insights Dashboard
 
-🤖 Machine Learning Applications
+🏠 Real Estate Investment Advisor
 
-📞 Customer Churn Prediction
+🏙️ Dubai Real Estate Intelligence Dashboard
 
-🏠 Real Estate Analytics
+📞 Telecom Customer Churn Analysis
 
-🚕 Transportation & Ride Analytics
+🤖 Customer Churn Prediction Model
 
-🎵 Recommendation Systems
+🎵 Spotify Lyric Search ML
 
-🏏 Sports Analytics
+🎬 Movie Recommender System
 
-📱 Interactive Data Applications
+✈️ British Airways Customer Satisfaction Analysis
+
+🏏 Cricket World Cup Analytics Dashboard
+
+🚗 Road Accident Analysis Dashboard
+
+🛒 E-Commerce Sales & Profit Dashboard
+
+🍕 Pizza Sales Dashboard
+
+🏥 MediBuddy Insurance EDA
+
+📄 Resume Job Fit Analyzer
 
 ---
 
-## 🏆 Certifications & Training
+## 📊 Areas of Interest
+
+* Data Analytics
+* Business Intelligence
+* Machine Learning
+* Predictive Analytics
+* Customer Analytics
+* Product Analytics
+* Data Visualization
+* Business Problem Solving
+
+---
+
+## 📜 Certifications
 
 * NPTEL Certified
 * VLSI Design Training
@@ -96,32 +123,19 @@ Currently, I am focused on:
 
 ---
 
-## 📌 What You'll Find Here
-
-* End-to-End Data Analytics Projects
-* Machine Learning Models
-* Power BI Dashboards
-* SQL-Based Analysis
-* Data Visualization Projects
-* Streamlit Applications
-* Continuous Learning Projects
-* Problem Solving & DSA Journey
-
----
-
 ## 🎯 Current Goals
 
 * Secure a Data Analyst / Data Science role
-* Strengthen Machine Learning fundamentals
-* Improve Problem Solving & DSA skills
-* Build more real-world data projects
+* Strengthen Machine Learning foundations
+* Improve Problem Solving & DSA
+* Build larger end-to-end data projects
 * Contribute to Open Source
-* Continue learning and growing in AI & Data
+* Continue learning modern data technologies
 
 ---
 
 ## 📫 Let's Connect
 
-I enjoy connecting with professionals, learners, and enthusiasts interested in Data Analytics, Data Science, Artificial Intelligence, Machine Learning, and Technology.
+💡 Open to opportunities, collaborations, and discussions related to Data Analytics, Data Science, Machine Learning, and Business Intelligence.
 
-⭐ Always Learning • Always Building • Always Improving
+⭐ Building data-driven solutions one project at a time.
