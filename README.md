@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sibam Sen</h1>
 
-<h3 align="center">
-Data Analyst | Data Science Enthusiast | Machine Learning Practitioner
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Machine+Learning+Practitioner;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
+</p>
 
 <p align="center">
-📊 Turning Data into Insights | 🐍 Python & SQL | 📈 Power BI | 🤖 Machine Learning
+  <img src="https://komarev.com/ghpvc/?username=sibamsen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -14,15 +14,15 @@ Data Analyst | Data Science Enthusiast | Machine Learning Practitioner
 
 I am a B.Tech graduate passionate about **Data Analytics, Data Science, Machine Learning, and Business Intelligence**.
 
-I enjoy working with data to uncover insights, solve business problems, build predictive models, and create interactive dashboards that support data-driven decision making.
+I enjoy transforming raw data into actionable insights, building predictive models, creating interactive dashboards, and solving real-world business problems through data-driven approaches.
 
-Over time, I have built **20+ projects** spanning data analytics, machine learning, SQL, Power BI, and Streamlit applications across multiple domains including real estate, customer analytics, telecom, insurance, transportation, sports, music, and e-commerce.
+My GitHub portfolio showcases **20+ projects** across Data Analytics, Machine Learning, SQL, Power BI, Streamlit, and Business Intelligence domains.
 
 Currently, I am focused on:
 
 * 📊 Data Analytics
 * 🤖 Machine Learning
-* 🐍 Python Development
+* 🐍 Python Programming
 * 🗄️ SQL & Database Management
 * 📈 Power BI & Data Visualization
 * 📚 Data Structures & Algorithms (LeetCode & Striver)
@@ -42,7 +42,7 @@ Currently, I am focused on:
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 
 ### Business Intelligence & Visualization
@@ -66,35 +66,21 @@ Currently, I am focused on:
 
 ## 🚀 Featured Projects
 
-📊 PhonePe Pulse Power BI Dashboard
-
-📈 Ola Ride Insights Dashboard
-
-🏠 Real Estate Investment Advisor
-
-🏙️ Dubai Real Estate Intelligence Dashboard
-
-📞 Telecom Customer Churn Analysis
-
-🤖 Customer Churn Prediction Model
-
-🎵 Spotify Lyric Search ML
-
-🎬 Movie Recommender System
-
-✈️ British Airways Customer Satisfaction Analysis
-
-🏏 Cricket World Cup Analytics Dashboard
-
-🚗 Road Accident Analysis Dashboard
-
-🛒 E-Commerce Sales & Profit Dashboard
-
-🍕 Pizza Sales Dashboard
-
-🏥 MediBuddy Insurance EDA
-
-📄 Resume Job Fit Analyzer
+* 📊 PhonePe Pulse Power BI Dashboard
+* 🚕 Ola Ride Insights Dashboard
+* 🏠 Real Estate Investment Advisor
+* 🏙️ Dubai Real Estate Intelligence Dashboard
+* 📞 Telecom Customer Churn Analysis
+* 🤖 Customer Churn Prediction Model
+* 🎵 Spotify Lyric Search ML
+* 🎬 Movie Recommender System
+* ✈️ British Airways Customer Satisfaction Analysis
+* 🏏 Cricket World Cup Analytics Dashboard
+* 🚗 Road Accident Analysis Dashboard
+* 🛒 E-Commerce Sales & Profit Dashboard
+* 🍕 Pizza Sales Dashboard
+* 🏥 MediBuddy Insurance EDA
+* 📄 Resume Job Fit Analyzer
 
 ---
 
@@ -111,9 +97,9 @@ Currently, I am focused on:
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Training
 
-* NPTEL Certified
+* NPTEL Certifications
 * VLSI Design Training
 * BSNL Industrial Training
 * Airport Authority of India Training
@@ -123,10 +109,27 @@ Currently, I am focused on:
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sibamsen&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibamsen&layout=compact&theme=default" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibamsen" />
+</p>
+
+---
+
 ## 🎯 Current Goals
 
 * Secure a Data Analyst / Data Science role
-* Strengthen Machine Learning foundations
+* Strengthen Machine Learning fundamentals
 * Improve Problem Solving & DSA
 * Build larger end-to-end data projects
 * Contribute to Open Source
@@ -136,6 +139,6 @@ Currently, I am focused on:
 
 ## 📫 Let's Connect
 
-💡 Open to opportunities, collaborations, and discussions related to Data Analytics, Data Science, Machine Learning, and Business Intelligence.
+I enjoy connecting with professionals and learners interested in Data Analytics, Data Science, Machine Learning, and Business Intelligence.
 
-⭐ Building data-driven solutions one project at a time.
+⭐ Always Learning • Always Building • Always Improving
