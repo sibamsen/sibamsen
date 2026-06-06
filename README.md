@@ -113,13 +113,8 @@ Currently, I am focused on:
 
 ## 📜 Certifications
 
-* NPTEL Certified
-* VLSI Design Training
-* BSNL Industrial Training
-* Airport Authority of India Training
-* ONGC Technical Training
-* Optical Fiber Splicing Training
-* Python, C, C++, Java & Computer Fundamentals Certifications
+* NPTEL Python Certification
+* NPTEL Machine Learning Certification
 
 ---
 
