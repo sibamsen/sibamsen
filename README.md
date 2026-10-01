@@ -1,136 +1,185 @@
 <h1 align="center">Hi 👋, I'm Sibam Sen</h1>
 
 <h3 align="center">
-Data Analyst | Data Science Enthusiast | Machine Learning Practitioner
+M.Tech AI Student @ Amity University Noida | Data & AI Enthusiast
 </h3>
 
 <p align="center">
-📊 Turning Data into Insights | 🐍 Python & SQL | 📈 Power BI | 🤖 Machine Learning
+🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Analytics | 🐍 Python | 🗄️ SQL
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile Summary
 
-I am a B.Tech graduate passionate about **Data Analytics, Data Science, Machine Learning, and Business Intelligence**.
+I am an **M.Tech Artificial Intelligence student at Amity University Noida** with a strong foundation in **Data Analytics, Machine Learning, Python, SQL, and Business Intelligence**.
 
-I enjoy working with data to uncover insights, solve business problems, build predictive models, and create interactive dashboards that support data-driven decision making.
+I enjoy solving real-world problems using data and AI — from **data cleaning and exploratory analysis to predictive modeling, dashboards, and end-to-end applications**.
 
-Over time, I have built **20+ projects** spanning data analytics, machine learning, SQL, Power BI, and Streamlit applications across multiple domains including real estate, customer analytics, telecom, insurance, transportation, sports, music, and e-commerce.
+I have worked on **20+ projects** across Machine Learning, Data Analytics, Power BI, SQL, and application development, covering domains such as **retail, real estate, customer analytics, telecom, insurance, transportation, sports, music, and e-commerce**.
 
-Currently, I am focused on:
-
-* 📊 Data Analytics
-* 🤖 Machine Learning
-* 🐍 Python Development
-* 🗄️ SQL & Database Management
-* 📈 Power BI & Data Visualization
-* 📚 Data Structures & Algorithms (LeetCode & Striver)
-* 🚀 Building production-ready projects
+Currently, I am focused on strengthening my AI/ML foundations and building practical, production-oriented projects that combine **data, machine learning, APIs, and modern AI technologies**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Areas of Interest
 
-### Programming
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 📊 Data Analytics
+* 📈 Business Intelligence
+* 🔮 Predictive Analytics
+* 🗄️ Data & Database Systems
+* 🧩 Natural Language Processing
+* ⚡ AI Application Development
+* 🚀 Machine Learning Deployment
+* 💡 Data-driven Problem Solving
+
+---
+
+## 🛠️ Skills
+
+### Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 
-### Data Analysis & Machine Learning
+### Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-### Business Intelligence & Visualization
+### Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoftexcel\&logoColor=white)
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat\&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
 
-### Tools
+### Development & Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit)
-
----
-
-## 🚀 Featured Projects
-
-📊 PhonePe Pulse Power BI Dashboard
-
-📈 Ola Ride Insights Dashboard
-
-🏠 Real Estate Investment Advisor
-
-🏙️ Dubai Real Estate Intelligence Dashboard
-
-📞 Telecom Customer Churn Analysis
-
-🤖 Customer Churn Prediction Model
-
-🎵 Spotify Lyric Search ML
-
-🎬 Movie Recommender System
-
-✈️ British Airways Customer Satisfaction Analysis
-
-🏏 Cricket World Cup Analytics Dashboard
-
-🚗 Road Accident Analysis Dashboard
-
-🛒 E-Commerce Sales & Profit Dashboard
-
-🍕 Pizza Sales Dashboard
-
-🏥 MediBuddy Insurance EDA
-
-📄 Resume Job Fit Analyzer
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## 📊 Areas of Interest
+## 🚀 Selected Projects
 
-* Data Analytics
-* Business Intelligence
+### 🤖 AI & Machine Learning
+
+* **Project FORESIGHT** — Retail Demand Forecasting & Inventory Optimization
+* **Customer Churn Prediction** — Machine Learning Classification
+* **Resume Job Fit Analyzer** — Resume & Job Description Analysis
+* **Real Estate Investment Advisor** — ML-based Property Analysis
+* **Movie Recommender System**
+* **Spotify Lyric Search ML**
+* **Student Placement Prediction Model**
+* **Student Score Prediction Model**
+
+### 📊 Data Analytics & Business Intelligence
+
+* **Dubai Real Estate Intelligence Dashboard** — Power BI
+* **PhonePe Pulse Analytics Dashboard** — Power BI
+* **Ola Ride Insights Dashboard**
+* **E-Commerce Sales & Profit Dashboard**
+* **Pizza Sales Dashboard**
+* **Cricket World Cup Analytics Dashboard**
+* **Road Accident Analysis Dashboard**
+* **British Airways Customer Satisfaction Analysis**
+* **Telecom Customer Churn Analysis**
+* **MediBuddy Insurance EDA**
+
+### ⚡ Full-Stack / AI Applications
+
+* **AI Utility Toolkit** — FastAPI + React
+
+  * CSV Data Cleaning
+  * Image Resizing
+  * PDF Merging
+  * PDF Text Extraction
+  * QR Code Generation
+
+---
+
+## 📜 Certifications & Training
+
+* **NPTEL — Machine Learning** | IIT Madras
+* **NPTEL — Python**
+* **VLSI Design Training**
+* **Telecom Training — BSNL**
+* **Summer Training — VECC**
+* **Data Analytics Internship — Labmentix**
+* **Data Science & Analytics Internship — Zidio Development**
+* **Job Bridge Program — Unlox / NASSCOM**
+
+---
+
+## 📚 Currently Learning
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+NLP & Generative AI
+        ↓
+AI Applications
+        ↓
+Deployment & Production
+```
+
+Alongside AI, I am strengthening:
+
+* Python & Advanced Python
+* SQL & Database Management
 * Machine Learning
-* Predictive Analytics
-* Customer Analytics
-* Product Analytics
-* Data Visualization
-* Business Problem Solving
-
----
-
-## 📜 Certifications
-
-* NPTEL Python Certification
-* NPTEL Machine Learning Certification
+* Deep Learning
+* Data Structures & Algorithms
+* FastAPI & REST APIs
+* Git & GitHub
+* AI/ML Deployment
 
 ---
 
 ## 🎯 Current Goals
 
-* Secure a Data Analyst / Data Science role
-* Strengthen Machine Learning foundations
-* Improve Problem Solving & DSA
-* Build larger end-to-end data projects
-* Contribute to Open Source
-* Continue learning modern data technologies
+* Build a strong foundation in **Artificial Intelligence & Machine Learning**
+* Develop **end-to-end AI/ML projects**
+* Strengthen **Python, SQL, and problem-solving**
+* Explore **Deep Learning, NLP, and Generative AI**
+* Build practical **AI applications with APIs and modern web technologies**
+* Improve **ML model deployment and production skills**
+* Contribute to **Open Source**
+* Prepare for **AI/ML, Data Science, and Data Analytics opportunities**
+
+---
+
+## 💼 Career Focus
+
+I am interested in opportunities related to:
+
+**Artificial Intelligence • Machine Learning • Data Science • Data Analytics • Business Intelligence • AI Applications**
 
 ---
 
 ## 📫 Let's Connect
 
-💡 Open to opportunities, collaborations, and discussions related to Data Analytics, Data Science, Machine Learning, and Business Intelligence.
+💡 Open to **AI/ML projects, data-driven collaborations, internships, research-oriented opportunities, and open-source contributions**.
 
-⭐ Building data-driven solutions one project at a time.
+⭐ Building practical AI and data solutions one project at a time.
+
