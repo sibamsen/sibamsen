@@ -174,5 +174,3 @@ Interested in opportunities across:
 💡 Open to **AI/ML projects, research-oriented work, data-driven collaborations, internships, and open-source contributions**.
 
 ⭐ *Building practical solutions at the intersection of data, machine learning, and artificial intelligence.*
-
-💙
