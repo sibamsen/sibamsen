@@ -118,12 +118,8 @@ Currently, I am focused on strengthening my AI/ML foundations and building pract
 
 * **NPTEL — Machine Learning** | IIT Madras
 * **NPTEL — Python**
-* **VLSI Design Training**
-* **Telecom Training — BSNL**
-* **Summer Training — VECC**
 * **Data Analytics Internship — Labmentix**
 * **Data Science & Analytics Internship — Zidio Development**
-* **Job Bridge Program — Unlox / NASSCOM**
 
 ---
 
