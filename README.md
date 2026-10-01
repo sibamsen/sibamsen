@@ -126,7 +126,7 @@ Machine Learning
         ↓
 Deep Learning
         ↓
-NLP
+       NLP
         ↓
 Generative AI
         ↓
