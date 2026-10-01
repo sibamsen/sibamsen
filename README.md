@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sibam Sen</h1>
 
 <h3 align="center">
-M.Tech AI Student @ Amity University Noida | Data & AI Enthusiast
+M.Tech Artificial Intelligence Student | Data & AI Enthusiast
 </h3>
 
 <p align="center">
-🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Analytics | 🐍 Python | 🗄️ SQL
+🤖 Artificial Intelligence &nbsp;|&nbsp; 🧠 Machine Learning &nbsp;|&nbsp; 📊 Data Analytics &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🗄️ SQL
 </p>
 
 ---
 
-## 👨‍💻 Profile Summary
+## 👨‍💻 About Me
 
-I am an **M.Tech Artificial Intelligence student at Amity University Noida** with a strong foundation in **Data Analytics, Machine Learning, Python, SQL, and Business Intelligence**.
+I am an **M.Tech student specializing in Artificial Intelligence**, with a strong foundation in **Data Analytics, Machine Learning, Python, SQL, and Business Intelligence**.
 
-I enjoy solving real-world problems using data and AI — from **data cleaning and exploratory analysis to predictive modeling, dashboards, and end-to-end applications**.
+I enjoy turning data into actionable insights and building machine learning solutions for real-world problems — from **data preprocessing and exploratory analysis to feature engineering, predictive modeling, visualization, and model evaluation**.
 
-I have worked on **20+ projects** across Machine Learning, Data Analytics, Power BI, SQL, and application development, covering domains such as **retail, real estate, customer analytics, telecom, insurance, transportation, sports, music, and e-commerce**.
+I have built **20+ projects** across **Machine Learning, Data Analytics, SQL, and Power BI**, working with datasets from domains including **retail, real estate, customer analytics, telecom, insurance, transportation, sports, music, and e-commerce**.
 
-Currently, I am focused on strengthening my AI/ML foundations and building practical, production-oriented projects that combine **data, machine learning, APIs, and modern AI technologies**.
+Currently, I am focused on progressing from **data analytics and classical machine learning toward modern AI**, while strengthening my foundations in **deep learning, NLP, Generative AI, APIs, and ML deployment**.
 
 ---
 
@@ -27,19 +27,19 @@ Currently, I am focused on strengthening my AI/ML foundations and building pract
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
 * 📊 Data Analytics
-* 📈 Business Intelligence
 * 🔮 Predictive Analytics
-* 🗄️ Data & Database Systems
 * 🧩 Natural Language Processing
-* ⚡ AI Application Development
+* ✨ Generative AI
+* 📈 Business Intelligence
+* 🗄️ Data & Database Systems
 * 🚀 Machine Learning Deployment
 * 💡 Data-driven Problem Solving
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### Programming & Data
+### Programming & Query Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
@@ -54,7 +54,7 @@ Currently, I am focused on strengthening my AI/ML foundations and building pract
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-### Business Intelligence
+### Business Intelligence & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoftexcel\&logoColor=white)
@@ -65,7 +65,7 @@ Currently, I am focused on strengthening my AI/ML foundations and building pract
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
 
-### Development & Deployment
+### Development & Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
@@ -78,16 +78,16 @@ Currently, I am focused on strengthening my AI/ML foundations and building pract
 
 ## 🚀 Selected Projects
 
-### 🤖 AI & Machine Learning
+### 🤖 Machine Learning & AI
 
 * **Project FORESIGHT** — Retail Demand Forecasting & Inventory Optimization
-* **Customer Churn Prediction** — Machine Learning Classification
+* **Customer Churn Prediction** — Classification & Predictive Modeling
 * **Resume Job Fit Analyzer** — Resume & Job Description Analysis
-* **Real Estate Investment Advisor** — ML-based Property Analysis
-* **Movie Recommender System**
-* **Spotify Lyric Search ML**
-* **Student Placement Prediction Model**
-* **Student Score Prediction Model**
+* **Real Estate Investment Advisor** — Machine Learning-based Property Analysis
+* **Movie Recommender System** — Recommendation System
+* **Spotify Lyric Search ML** — Machine Learning Application
+* **Student Placement Prediction Model** — Predictive Modeling
+* **Student Score Prediction Model** — Regression
 
 ### 📊 Data Analytics & Business Intelligence
 
@@ -102,24 +102,18 @@ Currently, I am focused on strengthening my AI/ML foundations and building pract
 * **Telecom Customer Churn Analysis**
 * **MediBuddy Insurance EDA**
 
-### ⚡ Full-Stack / AI Applications
-
-* **AI Utility Toolkit** — FastAPI + React
-
-  * CSV Data Cleaning
-  * Image Resizing
-  * PDF Merging
-  * PDF Text Extraction
-  * QR Code Generation
-
 ---
 
-## 📜 Certifications & Training
+## 📜 Certifications & Experience
 
 * **NPTEL — Machine Learning** | IIT Madras
 * **NPTEL — Python**
-* **Data Analytics Internship — Labmentix**
-* **Data Science & Analytics Internship — Zidio Development**
+* **Data Analytics Internship** | Labmentix
+* **Data Science & Analytics Internship** | Zidio Development
+* **Job Bridge Program** | Unlox / NASSCOM
+* **Summer Training** | VECC
+* **Telecom Training** | BSNL
+* **VLSI Design Training**
 
 ---
 
@@ -132,50 +126,53 @@ Machine Learning
         ↓
 Deep Learning
         ↓
-NLP & Generative AI
+NLP
         ↓
-AI Applications
+Generative AI
         ↓
-Deployment & Production
+AI Applications & Deployment
 ```
 
-Alongside AI, I am strengthening:
+Currently strengthening:
 
 * Python & Advanced Python
 * SQL & Database Management
 * Machine Learning
 * Deep Learning
+* Natural Language Processing
+* Generative AI
 * Data Structures & Algorithms
 * FastAPI & REST APIs
 * Git & GitHub
-* AI/ML Deployment
+* ML Model Deployment
 
 ---
 
 ## 🎯 Current Goals
 
-* Build a strong foundation in **Artificial Intelligence & Machine Learning**
+* Build strong foundations in **Artificial Intelligence & Machine Learning**
 * Develop **end-to-end AI/ML projects**
 * Strengthen **Python, SQL, and problem-solving**
-* Explore **Deep Learning, NLP, and Generative AI**
-* Build practical **AI applications with APIs and modern web technologies**
-* Improve **ML model deployment and production skills**
+* Gain practical experience in **Deep Learning, NLP, and Generative AI**
+* Build and deploy **real-world AI applications**
+* Improve **ML engineering and deployment skills**
 * Contribute to **Open Source**
-* Prepare for **AI/ML, Data Science, and Data Analytics opportunities**
+* Prepare for **AI/ML, Data Science, and Data Analytics roles**
 
 ---
 
 ## 💼 Career Focus
 
-I am interested in opportunities related to:
+Interested in opportunities across:
 
-**Artificial Intelligence • Machine Learning • Data Science • Data Analytics • Business Intelligence • AI Applications**
+**Artificial Intelligence • Machine Learning • Data Science • Data Analytics • Business Intelligence • AI/ML Engineering**
 
 ---
 
 ## 📫 Let's Connect
 
-💡 Open to **AI/ML projects, data-driven collaborations, internships, research-oriented opportunities, and open-source contributions**.
+💡 Open to **AI/ML projects, research-oriented work, data-driven collaborations, internships, and open-source contributions**.
 
-⭐ Building practical AI and data solutions one project at a time.
+⭐ *Building practical solutions at the intersection of data, machine learning, and artificial intelligence.*
 
+💙
