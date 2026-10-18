@@ -9,7 +9,7 @@ M.Tech Artificial Intelligence Student | Data & AI Enthusiast
 </p>
 
 ---
-
+ 
 ## 👨‍💻 About Me
 
 I am an **M.Tech student specializing in Artificial Intelligence**, with a strong foundation in **Data Analytics, Machine Learning, Python, SQL, and Business Intelligence**.
