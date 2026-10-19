@@ -3,7 +3,7 @@
 <h3 align="center">
 M.Tech Artificial Intelligence Student | Data & AI Enthusiast
 </h3>
-
+     
 <p align="center">
 🤖 Artificial Intelligence &nbsp;|&nbsp; 🧠 Machine Learning &nbsp;|&nbsp; 📊 Data Analytics &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🗄️ SQL
 </p>
