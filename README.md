@@ -1,7 +1,6 @@
  <!--
   SIBAM SEN | GITHUB PROFILE README
-  Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_USERNAME,
-  YOUR_EMAIL and YOUR_PROJECT_REPO links before publishing.
+  Replace all placeholders before publishing.
 -->
 
 <div align="center">
@@ -28,7 +27,7 @@
 
 ## ◈ &nbsp; About Me
 
-<img align="right" alt="AI and coding illustration" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="right" alt="Python programming icon" width="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 I'm **Sibam Sen**, an M.Tech student specializing in **Artificial Intelligence at Amity University, Noida**, with a background in Electronics and Communication Engineering.
 
@@ -50,19 +49,28 @@ I enjoy exploring how data and intelligent algorithms can solve real-world probl
 
 ### `01` &nbsp; Languages & Databases
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres&theme=dark" alt="Languages and databases"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres&theme=dark" alt="Programming languages and databases"/>
 
 ### `02` &nbsp; Data Science & Machine Learning
 
-<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 
 ### `03` &nbsp; Analytics & Visualization
 
-<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Power BI"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Google Looker Studio"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
 ### `04` &nbsp; Development & Tools
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,git,github,vscode,jupyter&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,git,github,vscode&theme=dark" alt="Development tools"/>
+<br/><br/>
+<a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/></a>
 
 </div>
 
@@ -84,7 +92,7 @@ I enjoy exploring how data and intelligent algorithms can solve real-world probl
 
 **Retail Demand Forecasting & Inventory Optimization**
 
-Developing data-driven solutions for understanding retail demand and supporting inventory decisions.
+Data-driven solutions for understanding retail demand and supporting inventory decisions.
 
 `Python` `Machine Learning` `Forecasting`
 
@@ -95,7 +103,7 @@ Developing data-driven solutions for understanding retail demand and supporting 
 
 **Resume & Job Description Analysis**
 
-An application concept focused on analyzing candidate profiles against job requirements.
+An application focused on analyzing candidate profiles against job requirements.
 
 `Python` `NLP` `Text Analysis`
 
@@ -207,8 +215,6 @@ Sales, profitability, and business performance analysis through interactive dash
 </a>
 
 </div>
-
-> **Tip:** Add links to the project titles once the corresponding repositories are public. Keep descriptions aligned with what each project actually implements.
 
 ---
 
