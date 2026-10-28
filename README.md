@@ -1,186 +1,315 @@
-# 👋 Hi, I'm Sibam Sen
+ <!--
+  SIBAM SEN | GITHUB PROFILE README
+  Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_USERNAME,
+  YOUR_EMAIL and YOUR_PROJECT_REPO links before publishing.
+-->
 
-### M.Tech Artificial Intelligence Student | Machine Learning & Data Analytics Enthusiast
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Solutions;Turning+Data+into+Actionable+Insights;Learning+by+Building+Real-World+Projects" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=SIBAM%20SEN&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20ANALYTICS&descAlignY=59&descSize=13&animation=fadeIn" width="100%" alt="Sibam Sen profile banner"/>
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sibam+Sen+%F0%9F%91%8B;M.Tech+Artificial+Intelligence+Student;Machine+Learning+%7C+Data+Science+%7C+AI;Turning+Data+Into+Meaningful+Insights;Building+AI+Solutions+That+Matter" alt="Animated introduction"/>
+</a>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
-I'm an **M.Tech student specializing in Artificial Intelligence**, passionate about building practical solutions using data, machine learning, and modern AI technologies.
+<br/><br/>
 
-- 🎓 Pursuing **M.Tech in Artificial Intelligence at Amity University, Noida**
-- 🧠 Exploring Machine Learning, Predictive Analytics, Deep Learning, NLP, and Generative AI
-- 📊 Experienced in developing data analytics solutions and interactive Power BI dashboards
-- 🛠️ Building projects spanning data preprocessing, exploratory data analysis, feature engineering, predictive modeling, and model evaluation
-- 🚀 Interested in end-to-end AI applications, REST APIs, and ML deployment
-- 📚 Continuously learning through hands-on projects, coursework, and technical exploration
+*Curious mind. Data-driven thinking. Building one project at a time.* 💙
 
-**My approach:** Learn the fundamentals, build practical projects, evaluate results, and keep improving.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ◈ &nbsp; About Me
 
-### Programming & Query Languages
+<img align="right" alt="AI and coding illustration" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres" alt="Programming languages and databases"/>
-</p>
+I'm **Sibam Sen**, an M.Tech student specializing in **Artificial Intelligence at Amity University, Noida**, with a background in Electronics and Communication Engineering.
 
-### Data Science & Machine Learning
+I enjoy exploring how data and intelligent algorithms can solve real-world problems — from discovering patterns in datasets to developing predictive models and interactive analytics solutions.
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
-</p>
+- 🎓 &nbsp; M.Tech in Artificial Intelligence
+- 🤖 &nbsp; Interested in ML, NLP, and Generative AI
+- 📊 &nbsp; Building analytics dashboards and predictive models
+- ⚙️ &nbsp; Exploring FastAPI, REST APIs, and AI application development
+- 🌱 &nbsp; Continuously learning through hands-on projects
 
-### Analytics & Business Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/EDA-4B5563?style=for-the-badge" alt="Exploratory Data Analysis"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=for-the-badge" alt="Data Visualization"/>
-</p>
-
-### Development & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,git,github,vscode,jupyter" alt="Development tools"/>
-</p>
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## ◈ &nbsp; My Tech Universe
 
-### 🤖 Machine Learning & AI
+<div align="center">
 
-| Project | Description | Technologies |
-|---|---|---|
-| **[Project FORESIGHT](YOUR_PROJECT_LINK)** | Retail demand forecasting and inventory optimization | Python, Machine Learning |
-| **[Resume Job Fit Analyzer](YOUR_PROJECT_LINK)** | Analyzes resume and job description compatibility | Python, NLP |
-| **[Customer Churn Prediction](YOUR_PROJECT_LINK)** | Predicts customer churn using classification models | Python, Scikit-learn |
-| **[Real Estate Investment Advisor](YOUR_PROJECT_LINK)** | Applies machine learning to property analysis | Python, Machine Learning |
-| **[Movie Recommender System](YOUR_PROJECT_LINK)** | Recommends movies using recommendation techniques | Python, Pandas |
-| **[Student Placement Prediction](YOUR_PROJECT_LINK)** | Predicts student placement outcomes using ML | Python, Scikit-learn |
+### `01` &nbsp; Languages & Databases
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres&theme=dark" alt="Languages and databases"/>
+
+### `02` &nbsp; Data Science & Machine Learning
+
+<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+
+### `03` &nbsp; Analytics & Visualization
+
+<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+
+### `04` &nbsp; Development & Tools
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,git,github,vscode,jupyter&theme=dark" alt="Development tools"/>
+
+</div>
+
+---
+
+## ◈ &nbsp; Featured Projects
+
+<div align="center">
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 Project FORESIGHT
+
+**Retail Demand Forecasting & Inventory Optimization**
+
+Developing data-driven solutions for understanding retail demand and supporting inventory decisions.
+
+`Python` `Machine Learning` `Forecasting`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Resume Job Fit Analyzer
+
+**Resume & Job Description Analysis**
+
+An application concept focused on analyzing candidate profiles against job requirements.
+
+`Python` `NLP` `Text Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📉 Customer Churn Prediction
+
+**Predictive Customer Analytics**
+
+Uses classification techniques to identify patterns associated with customer churn.
+
+`Python` `Pandas` `Scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 Real Estate Investment Advisor
+
+**Property Data & Predictive Insights**
+
+Explores real estate data to support property analysis and data-informed decisions.
+
+`Python` `Machine Learning` `EDA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Movie Recommender System
+
+**Personalized Recommendations**
+
+Explores recommendation techniques to suggest movies based on data and user preferences.
+
+`Python` `Pandas` `Recommendation Systems`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Student Placement Prediction
+
+**Student Outcome Prediction**
+
+Applies supervised learning to explore factors associated with student placement outcomes.
+
+`Python` `Classification` `Scikit-learn`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### 📊 Data Analytics & Business Intelligence
 
-| Project | Description | Tools |
-|---|---|---|
-| **[Dubai Real Estate Intelligence](YOUR_PROJECT_LINK)** | Real estate market analysis and interactive dashboards | Power BI |
-| **[PhonePe Pulse Analytics](YOUR_PROJECT_LINK)** | Digital payment trends and transaction analysis | Power BI |
-| **[Ola Ride Insights](YOUR_PROJECT_LINK)** | Ride-booking trends and operational insights | Power BI |
-| **[E-Commerce Sales & Profit](YOUR_PROJECT_LINK)** | Sales performance, profitability, and business KPIs | Power BI |
-| **[Cricket World Cup Analytics](YOUR_PROJECT_LINK)** | Cricket statistics and tournament insights | Power BI |
-| **[Road Accident Analysis](YOUR_PROJECT_LINK)** | Accident trends and road safety analysis | Power BI |
-| **[British Airways Customer Satisfaction](YOUR_PROJECT_LINK)** | Customer feedback and satisfaction analysis | Data Analytics |
-| **[MediBuddy Insurance EDA](YOUR_PROJECT_LINK)** | Exploratory analysis of insurance-related data | Python, Pandas |
+</div>
 
-> 💡 Explore my repositories for source code, implementation details, and project documentation.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏙️ Dubai Real Estate Intelligence
 
-## 📈 What I Bring to a Project
+Interactive Power BI dashboards for real estate market exploration and property insights.
 
-- **Data Analytics:** Data cleaning, exploratory analysis, KPI tracking, and dashboard development
-- **Machine Learning:** Classification, regression, feature engineering, model evaluation, and predictive analytics
-- **Visualization:** Interactive dashboards and data-driven storytelling
-- **Development:** Python applications, FastAPI, REST APIs, and React-based interfaces
-- **Problem Solving:** Breaking down practical problems into manageable, data-driven solutions
+`Power BI` `Data Visualization` `Business Intelligence`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎓 Certifications & Experience
+### 💳 PhonePe Pulse Analytics
 
-- **Data Science & Analytics Intern** — Zidio Development
-- **Data Analytics Intern** — Labmentix
-- **Machine Learning** — NPTEL, IIT Madras
-- **Python Programming** — NPTEL
-- **Job Bridge Program** — Unlox / NASSCOM
-- **Summer Training** — VECC
-- **Telecom Training** — BSNL
-- **VLSI Design Training** — Internshala
+Visual exploration of digital payment activity and transaction trends.
 
----
+`Power BI` `Data Analysis` `KPI Reporting`
 
-## 🌱 Currently Learning
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Python & SQL
-     ↓
-Machine Learning Fundamentals
-     ↓
-Deep Learning & Neural Networks
-     ↓
-Natural Language Processing
-     ↓
-Generative AI & LLM Applications
-     ↓
-End-to-End AI Systems & Deployment
-```
+### 🚕 Ola Ride Insights
 
-My current focus is on strengthening core concepts and turning them into well-documented, reproducible projects.
+Ride-booking analytics focused on operational trends and business performance.
 
----
+`Power BI` `Dashboard Design`
 
-## 🎯 Career Interests
+</td>
+<td width="50%" valign="top">
 
-I'm interested in opportunities involving:
+### 🛒 E-Commerce Sales Analytics
 
-**Artificial Intelligence · Machine Learning · Data Science · Data Analytics · Business Intelligence · AI Engineering**
+Sales, profitability, and business performance analysis through interactive dashboards.
 
-I'm particularly interested in projects that combine analytical thinking, practical machine learning, and useful software applications.
+`Power BI` `Excel` `Business Analytics`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+</a>
+
+</div>
+
+> **Tip:** Add links to the project titles once the corresponding repositories are public. Keep descriptions aligned with what each project actually implements.
 
 ---
 
-## 📊 GitHub Activity
+## ◈ &nbsp; Experience & Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+### 💼 Industry Experience
+
+- **Zidio Development** — Data Science & Analytics Intern
+- **Labmentix** — Data Analytics Intern
+- **Unlox / NASSCOM** — Job Bridge Program
+- **VECC** — Summer Training
+- **BSNL** — Telecom Training
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Courses & Training
+
+- **NPTEL / IIT Madras** — Machine Learning
+- **NPTEL** — Python Programming
+- **Internshala** — VLSI Design Training
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+## ◈ &nbsp; My Learning Roadmap
 
-I'm open to collaborating on **AI/ML projects, data analytics initiatives, research-oriented work, and open-source contributions**.
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/01-Python_%26_SQL-2563EB?style=for-the-badge" alt="Python and SQL"/> &nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/02-Machine_Learning-4F46E5?style=for-the-badge" alt="Machine Learning"/> &nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/03-Deep_Learning-7C3AED?style=for-the-badge" alt="Deep Learning"/>
 
-<p align="center">
-  <i>"Building practical solutions at the intersection of data, machine learning, and artificial intelligence." 💙</i>
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/04-NLP-7C3AED?style=for-the-badge" alt="NLP"/> &nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/05-Generative_AI-9333EA?style=for-the-badge" alt="Generative AI"/> &nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/06-AI_Deployment-DB2777?style=for-the-badge" alt="AI Deployment"/>
+
+</div>
+
+My focus is on strengthening fundamentals, experimenting with new techniques, and building end-to-end applications with clear documentation and reproducible results.
+
+---
+
+## ◈ &nbsp; GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## ◈ &nbsp; Beyond the Code
+
+- 🔍 &nbsp; Exploring research and emerging AI technologies
+- 🧩 &nbsp; Solving practical problems through data and algorithms
+- 🛠️ &nbsp; Building projects to turn concepts into working applications
+- 🌍 &nbsp; Interested in open-source collaboration and continuous learning
+
+---
+
+## ◈ &nbsp; Let's Build Something Meaningful
+
+<div align="center">
+
+**Have an interesting AI idea, data problem, or project in mind? Let's connect.**
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/GET_IN_TOUCH-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0F172A&height=120&section=footer" width="100%" alt="Blue and purple footer banner"/>
+
+*“Think analytically. Build intelligently. Keep learning.”* 💙
+
+</div>
