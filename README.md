@@ -1,176 +1,186 @@
-<h1 align="center">Hi 👋, I'm Sibam Sen</h1>
+# 👋 Hi, I'm Sibam Sen
 
-<h3 align="center">
-M.Tech Artificial Intelligence Student | Data & AI Enthusiast
-</h3>
-     
+### M.Tech Artificial Intelligence Student | Machine Learning & Data Analytics Enthusiast
+
 <p align="center">
-🤖 Artificial Intelligence &nbsp;|&nbsp; 🧠 Machine Learning &nbsp;|&nbsp; 📊 Data Analytics &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🗄️ SQL
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Solutions;Turning+Data+into+Actionable+Insights;Learning+by+Building+Real-World+Projects" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
-    
+
 ## 👨‍💻 About Me
 
-I am an **M.Tech student specializing in Artificial Intelligence**, with a strong foundation in **Data Analytics, Machine Learning, Python, SQL, and Business Intelligence**.
+I'm an **M.Tech student specializing in Artificial Intelligence**, passionate about building practical solutions using data, machine learning, and modern AI technologies.
 
-I enjoy turning data into actionable insights and building machine learning solutions for real-world problems — from **data preprocessing and exploratory analysis to feature engineering, predictive modeling, visualization, and model evaluation**.
+- 🎓 Pursuing **M.Tech in Artificial Intelligence at Amity University, Noida**
+- 🧠 Exploring Machine Learning, Predictive Analytics, Deep Learning, NLP, and Generative AI
+- 📊 Experienced in developing data analytics solutions and interactive Power BI dashboards
+- 🛠️ Building projects spanning data preprocessing, exploratory data analysis, feature engineering, predictive modeling, and model evaluation
+- 🚀 Interested in end-to-end AI applications, REST APIs, and ML deployment
+- 📚 Continuously learning through hands-on projects, coursework, and technical exploration
 
-I have built **20+ projects** across **Machine Learning, Data Analytics, SQL, and Power BI**, working with datasets from domains including **retail, real estate, customer analytics, telecom, insurance, transportation, sports, music, and e-commerce**.
-
-Currently, I am focused on progressing from **data analytics and classical machine learning toward modern AI**, while strengthening my foundations in **deep learning, NLP, Generative AI, APIs, and ML deployment**.
-
----
-
-## 🎯 Areas of Interest
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 📊 Data Analytics
-* 🔮 Predictive Analytics
-* 🧩 Natural Language Processing
-* ✨ Generative AI
-* 📈 Business Intelligence
-* 🗄️ Data & Database Systems
-* 🚀 Machine Learning Deployment
-* 💡 Data-driven Problem Solving
+**My approach:** Learn the fundamentals, build practical projects, evaluate results, and keep improving.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Programming & Query Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres" alt="Programming languages and databases"/>
+</p>
 
 ### Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+</p>
 
-### Business Intelligence & Visualization
+### Analytics & Business Intelligence
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoftexcel\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/EDA-4B5563?style=for-the-badge" alt="Exploratory Data Analysis"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=for-the-badge" alt="Data Visualization"/>
+</p>
 
 ### Development & Tools
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,git,github,vscode,jupyter" alt="Development tools"/>
+</p>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
 ### 🤖 Machine Learning & AI
 
-* **Project FORESIGHT** — Retail Demand Forecasting & Inventory Optimization
-* **Customer Churn Prediction** — Classification & Predictive Modeling
-* **Resume Job Fit Analyzer** — Resume & Job Description Analysis
-* **Real Estate Investment Advisor** — Machine Learning-based Property Analysis
-* **Movie Recommender System** — Recommendation System
-* **Spotify Lyric Search ML** — Machine Learning Application
-* **Student Placement Prediction Model** — Predictive Modeling
-* **Student Score Prediction Model** — Regression
+| Project | Description | Technologies |
+|---|---|---|
+| **[Project FORESIGHT](YOUR_PROJECT_LINK)** | Retail demand forecasting and inventory optimization | Python, Machine Learning |
+| **[Resume Job Fit Analyzer](YOUR_PROJECT_LINK)** | Analyzes resume and job description compatibility | Python, NLP |
+| **[Customer Churn Prediction](YOUR_PROJECT_LINK)** | Predicts customer churn using classification models | Python, Scikit-learn |
+| **[Real Estate Investment Advisor](YOUR_PROJECT_LINK)** | Applies machine learning to property analysis | Python, Machine Learning |
+| **[Movie Recommender System](YOUR_PROJECT_LINK)** | Recommends movies using recommendation techniques | Python, Pandas |
+| **[Student Placement Prediction](YOUR_PROJECT_LINK)** | Predicts student placement outcomes using ML | Python, Scikit-learn |
 
 ### 📊 Data Analytics & Business Intelligence
 
-* **Dubai Real Estate Intelligence Dashboard** — Power BI
-* **PhonePe Pulse Analytics Dashboard** — Power BI
-* **Ola Ride Insights Dashboard**
-* **E-Commerce Sales & Profit Dashboard**
-* **Pizza Sales Dashboard**
-* **Cricket World Cup Analytics Dashboard**
-* **Road Accident Analysis Dashboard**
-* **British Airways Customer Satisfaction Analysis**
-* **Telecom Customer Churn Analysis**
-* **MediBuddy Insurance EDA**
+| Project | Description | Tools |
+|---|---|---|
+| **[Dubai Real Estate Intelligence](YOUR_PROJECT_LINK)** | Real estate market analysis and interactive dashboards | Power BI |
+| **[PhonePe Pulse Analytics](YOUR_PROJECT_LINK)** | Digital payment trends and transaction analysis | Power BI |
+| **[Ola Ride Insights](YOUR_PROJECT_LINK)** | Ride-booking trends and operational insights | Power BI |
+| **[E-Commerce Sales & Profit](YOUR_PROJECT_LINK)** | Sales performance, profitability, and business KPIs | Power BI |
+| **[Cricket World Cup Analytics](YOUR_PROJECT_LINK)** | Cricket statistics and tournament insights | Power BI |
+| **[Road Accident Analysis](YOUR_PROJECT_LINK)** | Accident trends and road safety analysis | Power BI |
+| **[British Airways Customer Satisfaction](YOUR_PROJECT_LINK)** | Customer feedback and satisfaction analysis | Data Analytics |
+| **[MediBuddy Insurance EDA](YOUR_PROJECT_LINK)** | Exploratory analysis of insurance-related data | Python, Pandas |
+
+> 💡 Explore my repositories for source code, implementation details, and project documentation.
 
 ---
 
-## 📜 Certifications & Experience
+## 📈 What I Bring to a Project
 
-* **NPTEL — Machine Learning** | IIT Madras
-* **NPTEL — Python**
-* **Data Analytics Internship** | Labmentix
-* **Data Science & Analytics Internship** | Zidio Development
-* **Job Bridge Program** | Unlox / NASSCOM
-* **Summer Training** | VECC
-* **Telecom Training** | BSNL
-* **VLSI Design Training**
+- **Data Analytics:** Data cleaning, exploratory analysis, KPI tracking, and dashboard development
+- **Machine Learning:** Classification, regression, feature engineering, model evaluation, and predictive analytics
+- **Visualization:** Interactive dashboards and data-driven storytelling
+- **Development:** Python applications, FastAPI, REST APIs, and React-based interfaces
+- **Problem Solving:** Breaking down practical problems into manageable, data-driven solutions
 
 ---
 
-## 📚 Currently Learning
+## 🎓 Certifications & Experience
+
+- **Data Science & Analytics Intern** — Zidio Development
+- **Data Analytics Intern** — Labmentix
+- **Machine Learning** — NPTEL, IIT Madras
+- **Python Programming** — NPTEL
+- **Job Bridge Program** — Unlox / NASSCOM
+- **Summer Training** — VECC
+- **Telecom Training** — BSNL
+- **VLSI Design Training** — Internshala
+
+---
+
+## 🌱 Currently Learning
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-       NLP
-        ↓
-Generative AI
-        ↓
-AI Applications & Deployment
+Python & SQL
+     ↓
+Machine Learning Fundamentals
+     ↓
+Deep Learning & Neural Networks
+     ↓
+Natural Language Processing
+     ↓
+Generative AI & LLM Applications
+     ↓
+End-to-End AI Systems & Deployment
 ```
 
-Currently strengthening:
-
-* Python & Advanced Python
-* SQL & Database Management
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Generative AI
-* Data Structures & Algorithms
-* FastAPI & REST APIs
-* Git & GitHub
-* ML Model Deployment
+My current focus is on strengthening core concepts and turning them into well-documented, reproducible projects.
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Career Interests
 
-* Build strong foundations in **Artificial Intelligence & Machine Learning**
-* Develop **end-to-end AI/ML projects**
-* Strengthen **Python, SQL, and problem-solving**
-* Gain practical experience in **Deep Learning, NLP, and Generative AI**
-* Build and deploy **real-world AI applications**
-* Improve **ML engineering and deployment skills**
-* Contribute to **Open Source**
-* Prepare for **AI/ML, Data Science, and Data Analytics roles**
+I'm interested in opportunities involving:
+
+**Artificial Intelligence · Machine Learning · Data Science · Data Analytics · Business Intelligence · AI Engineering**
+
+I'm particularly interested in projects that combine analytical thinking, practical machine learning, and useful software applications.
 
 ---
 
-## 💼 Career Focus
+## 📊 GitHub Activity
 
-Interested in opportunities across:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+</p>
 
-**Artificial Intelligence • Machine Learning • Data Science • Data Analytics • Business Intelligence • AI/ML Engineering**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
-💡 Open to **AI/ML projects, research-oriented work, data-driven collaborations, internships, and open-source contributions**.
+I'm open to collaborating on **AI/ML projects, data analytics initiatives, research-oriented work, and open-source contributions**.
 
-⭐ *Building practical solutions at the intersection of data, machine learning, and artificial intelligence.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Building practical solutions at the intersection of data, machine learning, and artificial intelligence." 💙</i>
+</p>
