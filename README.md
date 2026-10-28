@@ -271,11 +271,11 @@ My focus is on strengthening fundamentals, experimenting with new techniques, an
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
+<a href="https://github.com/sibamsen">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sibamsen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
+<a href="https://github.com/sibamsen">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibamsen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
 </a>
 
 <br/><br/>
@@ -305,10 +305,10 @@ My focus is on strengthening fundamentals, experimenting with new techniques, an
 
 **Have an interesting AI idea, data problem, or project in mind? Let's connect.**
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/sibam-sen/">
   <img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sibamsen07@gmail.com">
   <img src="https://img.shields.io/badge/GET_IN_TOUCH-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
 </a>
 
