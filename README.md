@@ -7,15 +7,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=SIBAM%20SEN&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20ANALYTICS&descAlignY=59&descSize=13&animation=fadeIn" width="100%" alt="Sibam Sen profile banner"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sibamsen">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sibam+Sen+%F0%9F%91%8B;M.Tech+Artificial+Intelligence+Student;Machine+Learning+%7C+Data+Science+%7C+AI;Turning+Data+Into+Meaningful+Insights;Building+AI+Solutions+That+Matter" alt="Animated introduction"/>
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="https://www.linkedin.com/in/sibam-sen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sibamsen07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/sibamsen?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 <br/><br/>
 
